@@ -5,20 +5,14 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-n-7811a6279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:paulopas2meta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://wa.me/5561985256364">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO_DO_GITHUB?label=Seguidores&style=social" alt="Followers">
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO_DO_GITHUB?label=Stars&style=social" alt="Stars">
+  <img src="https://img.shields.io/github/followers/Pauloswimming?label=Seguidores&style=social" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Pauloswimming?label=Stars&style=social" alt="Stars">
 </div>
 
 <br/>
@@ -35,6 +29,38 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
 
 ---
 
+### 🏆 Projeto Principal (Destaque)
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <h3>🎥 VidFlow - Streaming Platform</h3>
+        <p>Aplicação moderna de vídeo desenvolvida com a stack mais performática do mercado (Vite & React).</p>
+        <p>
+           <a href="https://nodejs-vidflow-vite-green-three.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/VER_ONLINE_AGORA-000?style=for-the-badge&logo=vercel&logoColor=white&color=black" alt="Deploy Vercel">
+           </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <strong>Tech Stack:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📂 Outros Projetos
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Portfólio Pessoal** | Design responsivo focado em Mobile First e melhores práticas de UI. | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
+
+---
+
 ### 🚀 Arsenal Tecnológico
 
 <div align="center">
@@ -45,6 +71,10 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
         <br>React
       </td>
       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+        <br>NextJS
+      </td>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
       </td>
@@ -53,24 +83,54 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
         <br>JavaScript
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-        <br>NextJS
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <br>Redux
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
+        <br>Material UI
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <br>Sass
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+        <br>Jest
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-        <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
       </td>
     </tr>
   </table>
@@ -81,16 +141,16 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
 ### 🔥 GitHub Stats & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=midnight-d&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloswimming&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_DO_GITHUB&theme=git-dimmed&no-frame=true&no-bg=true&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&no-bg=true&margin-w=20" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_DO_GITHUB&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
