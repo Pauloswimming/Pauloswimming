@@ -29,22 +29,47 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
 
 ---
 
-### 🏆 Projeto Principal (Destaque)
+### 🏆 Projetos em Destaque (Top Tier)
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <h3>✈️ AeroSense AI - Smart Aviation</h3>
+        <p>Revolução no controle aéreo: Dashboard preditivo que utiliza <strong>Machine Learning e NLP</strong> para reduzir atrasos e otimizar slots em tempo real.</p>
+        <p>
+           <a href="https://aerosense-ai-new-adyfjluesjhagg3uer57ci.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/ACESSAR_DASHBOARD_IA-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&color=black" alt="Deploy Streamlit">
+           </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <strong>Engenharia de Dados:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td width="60%" align="center">
         <h3>🎥 VidFlow - Streaming Platform</h3>
-        <p>Aplicação moderna de vídeo desenvolvida com a stack mais performática do mercado (Vite & React).</p>
+        <p>Aplicação moderna de vídeo desenvolvida com a stack mais performática do mercado (Vite & React), focada em <strong>UX e Performance</strong>.</p>
         <p>
            <a href="https://nodejs-vidflow-vite-green-three.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/VER_ONLINE_AGORA-000?style=for-the-badge&logo=vercel&logoColor=white&color=black" alt="Deploy Vercel">
+            <img src="https://img.shields.io/badge/ACESSAR_VIDFLOW-000?style=for-the-badge&logo=vercel&logoColor=white&color=black" alt="Deploy Vercel">
            </a>
         </p>
       </td>
       <td width="40%" align="center">
-        <strong>Tech Stack:</strong>
+        <strong>Front-End Stack:</strong>
         <br>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -54,10 +79,13 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
   </table>
 </div>
 
+---
+
 ### 📂 Outros Projetos
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Portfólio Pessoal** | Design responsivo focado em Mobile First e melhores práticas de UI. | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
+| **Alura Plus** | Landing Page responsiva moderna estilo streaming (Netflix/Disney+). | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/Alura_plus/) |
+| **Portfólio Pessoal** | Design responsivo focado em Mobile First e UI. | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
 
 ---
 
