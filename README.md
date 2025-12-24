@@ -141,32 +141,39 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
 ## GitHub Stats & Performance
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pauloswimming&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</div>
 
-<br/>
+### 📊 Atividade & Consistência
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&no-bg=true&margin-w=20"
-    alt="GitHub Trophies"
-  />
-</div>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Pauloswimming&theme=midnight-d&hide_border=true"
+  height="180"
+  alt="GitHub Streak"
+/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet"
-    alt="Profile Views"
-  />
+### 🧠 Linguagens & Arquitetura
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=6"
+  height="180"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+### 🏆 Reconhecimento
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&column=4"
+  alt="GitHub Trophies"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet"
+  alt="Profile Views"
+/>
+
 </div>
