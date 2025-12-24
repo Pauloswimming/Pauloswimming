@@ -142,38 +142,25 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
 
 <div align="center">
 
-### 📊 Atividade & Consistência
+### 📈 Atividade & Consistência
+Desenvolvimento contínuo com foco em **qualidade de código**,  
+versionamento disciplinado e entregas incrementais.
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Pauloswimming&theme=midnight-d&hide_border=true"
-  height="180"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
+---
 
 ### 🧠 Linguagens & Arquitetura
+Atuação predominante em **JavaScript / TypeScript, Python e SQL**,  
+com experiência em **arquitetura Full Stack**, APIs REST e sistemas escaláveis.
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=6"
-  height="180"
-  alt="Top Languages"
-/>
+---
 
-<br/><br/>
+### 🏆 Reconhecimento & Engajamento
+Projetos públicos com foco em **engenharia real**, utilizados como base  
+para estudos acadêmicos, protótipos funcionais e produtos completos.
 
-### 🏆 Reconhecimento
+---
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&column=4"
-  alt="GitHub Trophies"
-/>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet"
-  alt="Profile Views"
-/>
+![Profile Views](https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet)
 
 </div>
+
