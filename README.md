@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-n-7811a6279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </p>
 
@@ -17,35 +17,37 @@
 
 <br/>
 
-### ⚡ Sobre Mim
+## ⚡ Sobre Mim
 
 > *"Talk is cheap. Show me the code."*
 
-Sou **Engenheiro de Software** focado em resolver problemas complexos com interfaces elegantes. Minha expertise combina a robustez da engenharia (C++/Python) com a agilidade do desenvolvimento web moderno.
+Sou **Engenheiro de Software** focado em resolver problemas complexos com interfaces elegantes. Minha expertise combina a robustez da engenharia (**Python / C++**) com a agilidade do desenvolvimento web moderno.
 
-* 🔭 **Foco atual:** Arquitetura Front-End escalável com **React & TypeScript**.
-* 💼 **Experiência:** Desenvolvimento de IAs médicas (CIIA) e sistemas embarcados (Embarcatech).
-* 🚀 **Objetivo:** Criar experiências digitais que impactam usuários reais.
+- 🔭 **Foco atual:** Arquitetura Front-End escalável com **React & TypeScript**
+- 💼 **Experiência:** Desenvolvimento de **IAs médicas (CIIA)** e sistemas embarcados (**Embarcatech**)
+- 🚀 **Objetivo:** Criar experiências digitais que impactam usuários reais
 
 ---
 
-### 🏆 Projetos em Destaque (Top Tier)
+## 🏆 Projetos em Destaque (Top Tier)
 
 <div align="center">
   <table>
     <tr>
       <td width="60%" align="center">
-        <h3>✈️ AeroSense AI - Smart Aviation</h3>
-        <p>Revolução no controle aéreo: Dashboard preditivo que utiliza <strong>Machine Learning e NLP</strong> para reduzir atrasos e otimizar slots em tempo real.</p>
+        <h3>✈️ AeroSense AI — Smart Aviation</h3>
+        <p>
+          Dashboard preditivo que utiliza <strong>Machine Learning e NLP</strong> para reduzir atrasos
+          e otimizar slots de voos em tempo real.
+        </p>
         <p>
            <a href="https://aerosense-ai-new-adyfjluesjhagg3uer57ci.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/ACESSAR_DASHBOARD_IA-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&color=black" alt="Deploy Streamlit">
+            <img src="https://img.shields.io/badge/ACESSAR_DASHBOARD_IA-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&color=black">
            </a>
         </p>
       </td>
       <td width="40%" align="center">
-        <strong>Engenharia de Dados:</strong>
-        <br>
+        <strong>Engenharia de Dados:</strong><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -60,17 +62,19 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
   <table>
     <tr>
       <td width="60%" align="center">
-        <h3>🎥 VidFlow - Streaming Platform</h3>
-        <p>Aplicação moderna de vídeo desenvolvida com a stack mais performática do mercado (Vite & React), focada em <strong>UX e Performance</strong>.</p>
+        <h3>🎥 VidFlow — Streaming Platform</h3>
+        <p>
+          Plataforma moderna de streaming desenvolvida com <strong>Vite & React</strong>,
+          focada em <strong>UX, performance e arquitetura limpa</strong>.
+        </p>
         <p>
            <a href="https://nodejs-vidflow-vite-green-three.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/ACESSAR_VIDFLOW-000?style=for-the-badge&logo=vercel&logoColor=white&color=black" alt="Deploy Vercel">
+            <img src="https://img.shields.io/badge/ACESSAR_VIDFLOW-000?style=for-the-badge&logo=vercel&logoColor=white">
            </a>
         </p>
       </td>
       <td width="40%" align="center">
-        <strong>Front-End Stack:</strong>
-        <br>
+        <strong>Front-End Stack:</strong><br><br>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -79,86 +83,34 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
   </table>
 </div>
 
----
-
-### 📂 Outros Projetos
-| Projeto | Descrição | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **Alura Plus** | Landing Page responsiva moderna estilo streaming (Netflix/Disney+). | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/Alura_plus/) |
-| **Portfólio Pessoal** | Design responsivo focado em Mobile First e UI. | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
-
----
-
-### 🚀 Arsenal Tecnológico
+<br/>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
+      <td width="60%" align="center">
+        <h3>🏥 RegulaSense — Health Regulation Platform</h3>
+        <p>
+          Sistema web completo para <strong>gestão e acompanhamento de solicitações médicas</strong>,
+          com autenticação JWT, arquitetura desacoplada e módulo inteligente FillSense.
+        </p>
+        <p>
+          Projeto acadêmico com foco em <strong>Full Stack real, segurança, integração contínua e UX profissional</strong>.
+        </p>
+        <p>
+          <a href="https://github.com/Pauloswimming/RegulaSense-" target="_blank">
+            <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
       </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-        <br>NextJS
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-        <br>Redux
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
-        <br>Material UI
-      </td>
-       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        <br>Vite
-      </td>
-       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-        <br>Jest
-      </td>
-       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+      <td width="40%" align="center">
+        <strong>Full Stack & Infra:</strong><br><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -166,7 +118,24 @@ Sou **Engenheiro de Software** focado em resolver problemas complexos com interf
 
 ---
 
-### 🔥 GitHub Stats & Performance
+## 📂 Outros Projetos
+
+| Projeto | Descrição | Stack | Link |
+|------|---------|------|:---:|
+| **Alura Plus** | Landing page responsiva estilo plataformas de streaming | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/Alura_plus/) |
+| **Portfólio Pessoal** | Design responsivo com foco em Mobile First e UI | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
+
+---
+
+## 🚀 Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,sass,html,css,vite,figma,jest,git,docker,python" />
+</div>
+
+---
+
+## 🔥 GitHub Stats & Performance
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloswimming&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"/>
