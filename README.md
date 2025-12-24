@@ -138,19 +138,35 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
 
 ---
 
-## 🔥 GitHub Stats & Performance
+## GitHub Stats & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloswimming&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=8"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pauloswimming&show_icons=true&theme=midnight-d&include_all_commits=true&count_private=true&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloswimming&layout=compact&theme=midnight-d&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&no-bg=true&margin-w=20" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pauloswimming&theme=git-dimmed&no-frame=true&no-bg=true&margin-w=20"
+    alt="GitHub Trophies"
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet"
+    alt="Profile Views"
+  />
 </div>
