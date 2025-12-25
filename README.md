@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=520&lines=Paulo+Nogueira;Engenheiro+de+Software+Full+Stack;Arquitetura+%7C+Produto+%7C+Código;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=520&lines=Paulo+Nogueira;Engenheiro+de+Software+Full+Stack;Arquitetura+%7C+Produto+%7C+Código;Code+%7C+Coffee+%7C+Create" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 Sou **Engenheiro de Software Full Stack**, orientado a produto e arquitetura, com foco em **construir sistemas completos**, do banco de dados à experiência do usuário.
 
-Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interfaces modernas e performáticas (React, TypeScript)**, sempre priorizando escalabilidade, segurança e usabilidade.
+Minha atuação une **engenharia sólida (Python, FastAPI, Django, Docker)** com **interfaces modernas e performáticas (React, TypeScript)**, sempre priorizando escalabilidade, segurança e manutenibilidade.
 
-- 🔭 **Atuação principal:** Sistemas **Full Stack**, APIs REST, autenticação segura e arquitetura modular  
-- 💼 **Experiência:** Desenvolvimento de **IAs médicas (CIIA)**, plataformas web completas e sistemas embarcados (**Embarcatech**)  
+- 🔭 **Atuação principal:** Sistemas **Full Stack**, APIs REST/Async, autenticação segura e arquitetura modular  
+- 💼 **Experiência:** IAs médicas (CIIA), plataformas inteligentes, sistemas web completos e projetos acadêmicos de alto impacto  
 - 🚀 **Objetivo:** Criar produtos digitais robustos que resolvem problemas reais em escala  
 
 ---
@@ -53,6 +53,42 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <h3>🎧 Sonorus AI — Intelligent Audio Analysis Platform</h3>
+        <p>
+          Plataforma Full Stack para <strong>análise inteligente de áudio</strong>,
+          combinando <strong>Processamento de Voz, Machine Learning e arquitetura escalável</strong>.
+        </p>
+        <p>
+          Utiliza modelos avançados de <strong>Speech Recognition</strong>,
+          processamento assíncrono, cache distribuído e autenticação segura.
+        </p>
+        <p>
+          <a href="https://github.com/unb-mds/Sonorus-2025.1" target="_blank">
+            <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <strong>Full Stack, IA & Infra:</strong><br><br>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SpeechBrain-5A29E4?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </td>
     </tr>
   </table>
@@ -93,12 +129,12 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
       <td width="60%" align="center">
         <h3>🏥 RegulaSense — Full Stack Health Platform</h3>
         <p>
-          Sistema web completo para <strong>gestão e acompanhamento de solicitações médicas</strong>,
-          com autenticação JWT, APIs REST, arquitetura desacoplada e módulo inteligente FillSense.
+          Sistema web completo para <strong>gestão de solicitações médicas</strong>,
+          com autenticação JWT, APIs REST e arquitetura desacoplada.
         </p>
         <p>
-          Projeto com foco em <strong>engenharia de software real</strong>:
-          segurança, integração contínua, Docker e experiência profissional de usuário.
+          Projeto focado em <strong>engenharia de software real</strong>:
+          segurança, CI/CD, Docker e experiência profissional de usuário.
         </p>
         <p>
           <a href="https://github.com/Pauloswimming/RegulaSense-" target="_blank">
@@ -110,7 +146,6 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
         <strong>Full Stack & Infra:</strong><br><br>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -125,15 +160,15 @@ Minha atuação une **engenharia sólida (Python, Django, Docker)** com **interf
 
 | Projeto | Descrição | Stack | Link |
 |------|---------|------|:---:|
-| **Alura Plus** | Landing page moderna e responsiva inspirada em plataformas de streaming | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/Alura_plus/) |
-| **Portfólio Pessoal** | Interface responsiva com foco em UI, usabilidade e clareza | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
+| **Alura Plus** | Landing page moderna e responsiva | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/Alura_plus/) |
+| **Portfólio Pessoal** | Interface focada em UI e clareza | `HTML5` `CSS3` | [Acessar](https://pauloswimming.github.io/HTML-and-CSS/) |
 
 ---
 
 ## 🚀 Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,sass,html,css,vite,figma,jest,git,docker,python,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,sass,html,css,vite,figma,jest,git,docker,python,fastapi,postgres,redis" />
 </div>
 
 ---
@@ -149,18 +184,17 @@ versionamento disciplinado e entregas incrementais.
 ---
 
 ### 🧠 Linguagens & Arquitetura
-Atuação predominante em **JavaScript / TypeScript, Python e SQL**,  
-com experiência em **arquitetura Full Stack**, APIs REST e sistemas escaláveis.
+Atuação predominante em **TypeScript, Python e SQL**,  
+com forte ênfase em **arquitetura Full Stack**, APIs e sistemas distribuídos.
 
 ---
 
 ### 🏆 Reconhecimento & Engajamento
-Projetos públicos com foco em **engenharia real**, utilizados como base  
-para estudos acadêmicos, protótipos funcionais e produtos completos.
+Projetos públicos utilizados como base para  
+**produtos funcionais, pesquisa acadêmica e aprendizado avançado**.
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pauloswimming&style=flat-square&color=blueviolet)
 
 </div>
-
