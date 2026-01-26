@@ -122,6 +122,31 @@ Minha atuação une **engenharia sólida (Python, FastAPI, Django, Docker)** com
 </div>
 
 <br/>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <h3>🏦 ByteBank — Simulação de Banco Digital (Front-end)</h3>
+        <p>
+          Aplicação front-end demonstrativa que simula operações bancárias — interface para criação/gerência de contas,
+          transferências e validações de formulários. Projeto focado em lógica de cliente e experiência, ideal para
+          demonstrar habilidades em JavaScript, manipulação do DOM e boas práticas de UI/UX.
+        </p>
+        <p>
+          <a href="https://github.com/Pauloswimming/ByteBank" target="_blank">
+            <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <strong>Front-end & UX:</strong><br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table>
