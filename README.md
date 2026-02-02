@@ -37,6 +37,35 @@ Minha atuação une **engenharia sólida (Python, FastAPI, Django, Docker)** com
   <table>
     <tr>
       <td width="60%" align="center">
+        <h3>🗂️ To-Do List — Gerenciador de Tarefas (Java + React)</h3>
+        <p>
+          Projeto **Full Stack** simples e didático para gerenciar tarefas — backend em <strong>Java (Spring Boot)</strong> e frontend em <strong>React + Vite + Tailwind</strong>.
+          Ideal para portfólio e entrevistas: CRUD completo, seed de dados, tratamento de erros e UI responsiva.
+        </p>
+        <p>
+          <a href="https://github.com/Pauloswimming/To-Do-List_java" target="_blank">
+            <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <strong>Stack:</strong><br><br>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
         <h3>✈️ AeroSense AI — Smart Aviation Platform</h3>
         <p>
           Plataforma analítica inteligente para aviação, utilizando
