@@ -1,16 +1,20 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=520&lines=Paulo+Nogueira;Engenheiro+de+Software+Full+Stack;Arquitetura+%7C+Produto+%7C+Código;Code+%7C+Coffee+%7C+Create" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=520&lines=Paulo+Nogueira;DevOps+Júnior+%7C+Cloud+%26+Automa%C3%A7%C3%A3o;CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Python" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-n-7811a6279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/GCP-GoogleCloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP badge">
+  <img src="https://img.shields.io/badge/Azure-Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure badge">
+  <img src="https://img.shields.io/badge/Terraform-HashiCorp-624F9C?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform badge">
+  <br/>
   <img src="https://img.shields.io/github/followers/Pauloswimming?label=Seguidores&style=social" alt="Followers">
   <img src="https://img.shields.io/github/stars/Pauloswimming?label=Stars&style=social" alt="Stars">
 </div>
@@ -19,16 +23,17 @@
 
 ## ⚡ Sobre Mim
 
-> *"Talk is cheap. Show me the code."*
+> *""Automação, previsibilidade e entrega: prefiro pipelines funcionais a promessas vagas.""*
 
-Sou **Engenheiro de Software Full Stack**, orientado a produto e arquitetura, com foco em **construir sistemas completos**, do banco de dados à experiência do usuário.
+Sou DevOps Júnior e estudante de Engenharia de Software (UnB), com foco em cloud computing, automação e infraestrutura como código. Trabalho com CI/CD, Terraform, GitHub Actions, Docker e Python para criar pipelines confiáveis, ambientes reproduzíveis e processos que facilitam a vida dos times de desenvolvimento.
 
-Minha atuação une **engenharia sólida (Python, FastAPI, Django, Docker)** com **interfaces modernas e performáticas (React, TypeScript)**, sempre priorizando escalabilidade, segurança e manutenibilidade.
+Minha atuação é prática e orientada a resultados:
 
-- 🔭 **Atuação principal:** Sistemas **Full Stack**, APIs REST/Async, autenticação segura e arquitetura modular  
-- 💼 **Experiência:** IAs médicas (CIIA), plataformas inteligentes, sistemas web completos e projetos acadêmicos de alto impacto  
-- 🚀 **Objetivo:** Criar produtos digitais robustos que resolvem problemas reais em escala  
+🔭 Atuação principal: CI/CD, Infraestrutura como Código (IaC), automação e suporte a times de desenvolvimento
 
+💼 Experiência: Provisionamento em GCP e Azure, automações em Python, containerização com Docker e criação de pipelines automatizados
+
+🚀 Objetivo: Contribuir com práticas de entrega contínua, segurança e governança para produtos em produção, entregando estabilidade e escalabilidade
 ---
 
 ## 🏆 Projetos em Destaque (Top Tier)
@@ -155,7 +160,7 @@ Minha atuação une **engenharia sólida (Python, FastAPI, Django, Docker)** com
   <table>
     <tr>
       <td width="60%" align="center">
-        <h3>🏦 ByteBank — Simulação de Banco Digital (Front-end)</h3>
+        <h3>🏦 ByteBank — Simulação de Banco Digital </h3>
         <p>
           Aplicação front-end demonstrativa que simula operações bancárias — interface para criação/gerência de contas,
           transferências e validações de formulários. Projeto focado em lógica de cliente e experiência, ideal para
