@@ -227,7 +227,52 @@ Minha atuação é prática e orientada a resultados:
 ## 🚀 Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,sass,html,css,vite,figma,jest,git,docker,python,fastapi,postgres,redis" />
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/GCP-GoogleCloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Azure-Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/AWS-Amazon-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+
+<br/>
+
+<!-- IaC & Automação -->
+<img src="https://img.shields.io/badge/Terraform-624F9C?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-IaC-lightgrey?style=for-the-badge" alt="IaC"/>
+
+<br/>
+
+<!-- CI/CD, VCS -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+<br/>
+
+<!-- Containers & Orquestração -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+
+<br/>
+
+<!-- Observabilidade -->
+<img src="https://img.shields.io/badge/Prometheus-FF6F00?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+
+<br/>
+
+<!-- Languages, DBs and tools -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+
+<br/>
+
+<!-- Keep frontend tech: shows full-app knowledge -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
 </div>
 
 ---
