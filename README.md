@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=520&lines=Paulo+Nogueira;Analista+de+Dados+%7C+BI+%26+SQL;Power+BI+%7C+SQL+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&background=00000000&center=true&vCenter=true&width=640&lines=Paulo+Nogueira;Analista+de+Testes+(QA+Jr)+%7C+React+%7C+Jest+%7C+Cypress" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,31 +12,41 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Microsoft-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Looker%20Studio-Google-4285F4?style=for-the-badge&logo=google" alt="Looker Studio">
-  <img src="https://img.shields.io/badge/SQL-%20Query-333333?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/Excel-Microsoft-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Testing%20Library-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
+  <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
 ---
 
-## ⚡ Sobre Mim (focado na vaga de Analista de Dados)
+## ⚡ Sobre (focado na vaga de Analista de Testes / QA Jr)
 
-Sou **Analista de Dados** com experiência prática em **extração, tratamento e visualização de dados** para suporte à tomada de decisão. Trabalho com **SQL** para modelagem e consultas, **Power BI / Looker Studio** para construção de dashboards gerenciais e **processos de ETL** para garantir qualidade dos dados. Tenho experiência em projetos do setor de saúde — construindo indicadores de atendimento, produtividade e faturamento — e foco em entregar insights acionáveis e confiáveis para gestores.
-
-**O que trago para a vaga**
-- Tradução de problemas de negócio em KPIs e dashboards acionáveis.  
-- Criação e otimização de consultas SQL complexas para relatórios confiáveis.  
-- Desenvolvimento de relatórios interativos em Power BI (DAX, modelagem) e Looker Studio.  
-- Boas práticas de tratamento de dados, documentação e garantia de qualidade.  
-- Sensibilidade para lidar com dados sensíveis (LGPD) — práticas de segurança e anonimização.
+Sou **Analista de Testes (QA Jr)** com formação prática em desenvolvimento Full Stack, atuando na prevenção de problemas e garantia de qualidade em aplicações web modernas (React / Next.js). Tenho experiência em testes manuais e automatizados, criação de casos de teste, integração com pipelines CI/CD e validação de regras de negócio críticas.
 
 ---
 
-## 🎯 Resumo Profissional
+## 🧩 Competências alinhadas ao critério da vaga
 
-Analista de Dados com atuação em projetos de BI e saúde digital. Experiência em transformar dados brutos em relatórios e dashboards que apoiam decisões operacionais e estratégicas. Perfil analítico, detalhista e orientado ao impacto.
+- **Testes Automatizados**: Escrita e manutenção de suites com **Jest** (unitários) e **Cypress** (E2E). Uso de **React Testing Library** para testes de componentes.  
+- **Testes Manuais & Casos de Teste**: Elaboração de cenários, matriz de cobertura e execução sistemática de testes funcionais e de regressão.  
+- **Qualidade de Código & Integração**: Entendimento sólido de arquitetura front-end (React / Next.js) que permite identificar pontos de risco e colaborar com desenvolvedores para fixes rápidos.  
+- **APIs & Dados**: Testes de integração com APIs **REST / GraphQL** (validação de payloads, contratos e estabilidade).  
+- **Ambiente & CI/CD**: Execução de pipelines automatizados (build → test → deploy), experiência com Docker para parity entre ambientes.  
+- **Ferramentas de Issue / QA**: Jira, TestRail (ou equivalente), Postman, Git + PR reviews.  
+- **Soft Skills**: Comunicação clara, organização, atenção a detalhes e postura orientada a processos — alinhado com culturas que valorizam método e entrega confiável.
+
+---
+
+## 🎯 Realizações relevantes (resumidas)
+
+- Implementação de suíte de E2E com **Cypress** para fluxos críticos, reduzindo regressões em produção.  
+- Cobertura de testes unitários com **Jest** e **React Testing Library** em componentes complexos.  
+- Participação na integração de testes automáticos em pipeline CI, bloqueando merges com falhas de teste.  
+- Colaboração direta com times de produto e desenvolvimento para definição de critérios de aceitação e casos de teste.
 
 ---
 
